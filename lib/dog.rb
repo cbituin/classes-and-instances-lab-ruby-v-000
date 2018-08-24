@@ -1,4 +1,5 @@
-class Dog 
+class Dog
+  #write some code here
 end
 
 fido = Dog.new 
